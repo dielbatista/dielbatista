@@ -10,7 +10,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="All-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
-    <img align="center" alt="All-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original-wordmark.svg">
+    <img align="center" alt="All-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg">
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </div>
 ##
