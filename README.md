@@ -13,7 +13,7 @@
 I am a **Software Engineering student** from Brazil 🇧🇷 with a deep interest in building scalable server-side systems and efficient web applications. Currently, I am refining my skills in backend architecture and cloud tools.
 
 * 🚀 **Goal**: Become a Full Stack Developer with a strong Backend foundation.
-* 🎓 **Education**: Currently studying Software Engineering.
+* 🎓 **Education**: Currently studying Django
 * 🛠️ **Focus**: Writing clean, maintainable code and learning DevOps practices.
 
 ---
