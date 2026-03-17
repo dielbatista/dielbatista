@@ -55,25 +55,7 @@ I am a **Software Engineering student** from Brazil 🇧🇷 with a deep interes
 
 # 📈 Contribution Graph
 
-![Snake animation](https://github.com/dielbatista/dielbatista/blob/output/github-contribution-grid-snake.svg)
----
-
-# 🌐 Connect With Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/diel-batista-7306a426a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dielxlem229@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=dielbatista&color=7FFFD4&style=flat-square&label=VISITORS+COUNT" alt="Visitors Count" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=dielbatista)
 
 ---
 
