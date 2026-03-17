@@ -54,7 +54,7 @@ I am a **Software Engineering student** from Brazil 🇧🇷 with a deep interes
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dielbatista&bg_color=0d1117&color=7FFFD4&line=7FFFD4&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dielbatista&theme=tokyonight&no-bg=true&column=4&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
