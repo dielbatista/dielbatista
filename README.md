@@ -54,7 +54,10 @@ I am a **Software Engineering student** from Brazil 🇧🇷 with a deep interes
 ---
 
 # 📈 Contribution Graph
-![Snake dark](https://raw.githubusercontent.com/dielbatista/dielbatista/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dielbatistadielbatista/dielbatistadielbatista/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/dielbatistadielbatista/dielbatistadielbatista/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+</p>
 ---
 
 <p align="center">
