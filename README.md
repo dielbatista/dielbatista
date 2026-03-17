@@ -54,9 +54,7 @@ I am a **Software Engineering student** from Brazil 🇧🇷 with a deep interes
 ---
 
 # 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dielbatista)
-
+![Snake dark](https://raw.githubusercontent.com/dielbatista/dielbatista/output/github-contribution-grid-snake-dark.svg)
 ---
 
 <p align="center">
