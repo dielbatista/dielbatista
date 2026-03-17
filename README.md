@@ -45,9 +45,11 @@ I am a **Software Engineering student** from Brazil 🇧🇷 with a deep interes
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielbatista&layout=compact&theme=tokyonight&title_color=7FFFD4&text_color=ffffff&bg_color=0d1117&hide_border=true" height="180px" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dielbatista&theme=tokyonight&no-bg=true&column=4&margin-w=15" />
-</p>
+ <p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dielbatista&bg_color=0d1117&color=7FFFD4&line=7FFFD4&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</p> 
 
 ---
 
