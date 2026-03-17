@@ -55,7 +55,7 @@ I am a **Software Engineering student** from Brazil 🇧🇷 with a deep interes
 
 # 📈 Contribution Graph
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dielbatista)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dielbatista)
 
 ---
 
