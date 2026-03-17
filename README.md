@@ -55,10 +55,7 @@ I am a **Software Engineering student** from Brazil 🇧🇷 with a deep interes
 
 # 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dielbatista&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 ---
 
 # 🌐 Connect With Me
