@@ -55,7 +55,7 @@ I am a **Software Engineering student** from Brazil 🇧🇷 with a deep interes
 
 # 📈 Contribution Graph
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dielbatista/dielbatista/blob/output/github-contribution-grid-snake.svg)
 ---
 
 # 🌐 Connect With Me
